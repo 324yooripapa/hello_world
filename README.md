@@ -1,4 +1,4 @@
-# MY FISRT 홈페이지 입니다.
+# MY FIRST 홈페이지 입니다.
 ## 안녕하세요. 글을 쓰는 나미야 스트레이드입니다.
 <img src="CAT.jfif"/> <br>
 [블로그 링크입니다.] (https://blog.naver.com/dtc02159)<br>
