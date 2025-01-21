@@ -1,6 +1,6 @@
 # hello_world 홈페이지 입니다.
 ## 안녕하세요. 권유리입니다.
-<img src="IMG_7897 (1)"/> <br>
+<img src="CAT.JFIF"/> <br>
 [네이버 링크입니다.] (https://naver.com)<br>
 
 ## 고양이 동영상
